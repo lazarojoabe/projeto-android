@@ -154,6 +154,8 @@ aside > h3{
 footer{
     background-color: var(--cor05);
     color: white;
+    padding-top: 3px;
+    margin: 20px 0px 0px 0px;
     padding-bottom: 3px;
     text-align: center;
 }
