@@ -154,8 +154,7 @@ aside > h3{
 footer{
     background-color: var(--cor05);
     color: white;
-    margin: 10px 0px 0px 0px;
-    padding: 0px 0px 1px 0px;
+    padding-bottom: 3px;
     text-align: center;
 }
 footer nav > a{
