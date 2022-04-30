@@ -155,7 +155,7 @@ footer{
     background-color: var(--cor05);
     color: white;
     margin: 0px;
-    padding: 1px 0px;
+    padding: 0px 0px;
     text-align: center;
 }
 footer nav > a{
