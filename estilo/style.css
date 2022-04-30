@@ -152,11 +152,12 @@ aside > h3{
     border-radius: 10px 10px 0px 0px;
 }
 footer{
-    background-color: var(--cor04);
+    background-color: var(--cor05);
     color: white;
-    padding: 8px 0px;
+    padding: 8px 1px;
     text-align: center;
 }
-footer > nav{
+footer nav > a{
     padding-right: 10px;
+    margin: 0px;
 }
