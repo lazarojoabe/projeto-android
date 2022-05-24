@@ -163,7 +163,7 @@ footer nav > a{
     padding-right: 10px;
     margin: 0px;
 }
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
     nav{
         display: flex;
         width: 100%;
